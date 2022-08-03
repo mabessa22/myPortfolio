@@ -463,3 +463,16 @@ header .navbar ul li a:hover{
     }
 
  }
+
+ @media (max-width:380px)
+ {
+     .education .box-container{
+  
+    padding:0 5rem; 
+
+    }
+    .education .box-container .box{
+        width:150%;
+        padding-left:2rem;
+    }
+ }
