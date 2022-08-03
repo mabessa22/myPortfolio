@@ -464,7 +464,7 @@ header .navbar ul li a:hover{
 
  }
 
- @media (max-width:380px)
+ @media (max-width:350px)
  {
      .education .box-container{
   
@@ -472,7 +472,7 @@ header .navbar ul li a:hover{
 
     }
     .education .box-container .box{
-        width:150%;
+        width:60%;
         padding-left:2rem;
     }
  }
