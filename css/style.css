@@ -444,8 +444,14 @@ header .navbar ul li a:hover{
         width: 100%;
     }
  
+     .education .box-container{
+  
+    padding:0 5rem; 
+
+}
     .education .box-container .box{
-        width:100%;
+        width:150%;
+        padding-left:2rem;
     }
 
     .portfolio .box-container .box{
